@@ -1,6 +1,6 @@
 import unittest
-from Game import Game, SpecialGame, MultiPlayerGame, SurvivalGame
-from Board import Board, SparkleBoard, FreezeBoard
+from classes.game import Game, SpecialGame, MultiPlayerGame, SurvivalGame
+from classes.board import Board, SparkleBoard, FreezeBoard
 import json
 
 class TestGame(unittest.TestCase):

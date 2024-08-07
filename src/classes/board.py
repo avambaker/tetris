@@ -1,9 +1,9 @@
 import random
 import time
-import os
-from Instructions import Instructions
-from Block import LBlock, JBlock, OBlock, IBlock, ZBlock, TBlock, SBlock
-from Sparkle import Sparkle
+#import os
+# from classes.instructions import Instructions
+from classes.block import LBlock, JBlock, OBlock, IBlock, ZBlock, TBlock, SBlock
+from classes.sparkle import Sparkle
 
 class Board:
     def __init__(self):

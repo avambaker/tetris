@@ -1,5 +1,5 @@
 import unittest
-from Disk import Disk
+from classes.disk import Disk
 
 class TestBoard(unittest.TestCase):
 

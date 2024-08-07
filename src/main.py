@@ -1,6 +1,6 @@
-from Game import Game, SpecialGame, SurvivalGame, MultiPlayerGame
-from Board import SparkleBoard, FreezeBoard, Board
-from Instructions import Instructions
+from classes.game import Game, SpecialGame, SurvivalGame, MultiPlayerGame
+from classes.board import SparkleBoard, FreezeBoard, Board
+from classes.instructions import Instructions
 import os
 
 # initialize and run the Tetris game

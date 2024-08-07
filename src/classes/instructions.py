@@ -1,6 +1,6 @@
 import time
 import os
-from KBHit import KBHit as kb
+#from classes.KBHit import KBHit as kb
 
 class Instructions:
     

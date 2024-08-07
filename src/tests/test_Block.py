@@ -1,5 +1,5 @@
 import unittest
-from Block import LBlock, JBlock, OBlock, IBlock, ZBlock, TBlock, SBlock
+from classes.block import LBlock, JBlock, OBlock, IBlock, ZBlock, TBlock, SBlock
 
 class TestBlock(unittest.TestCase):
     

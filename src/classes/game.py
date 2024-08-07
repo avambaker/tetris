@@ -1,6 +1,6 @@
-from KBHit import KBHit
-from Instructions import Instructions
-from Disk import Disk
+from classes.KBHit import KBHit
+from classes.instructions import Instructions
+from classes.disk import Disk
 import time
 
 class Game():
